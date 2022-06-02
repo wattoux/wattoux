@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wattoux
+- 👀 I’m interested in coding python discord bots
+- 🌱 I’m currently learning python
